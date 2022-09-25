@@ -1,1 +1,1 @@
-README file added to basics
+#!/bin/bash
