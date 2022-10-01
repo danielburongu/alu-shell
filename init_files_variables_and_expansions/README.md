@@ -1,1 +1,1 @@
-My README file
+#!/bin/bash
