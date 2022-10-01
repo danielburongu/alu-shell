@@ -1,0 +1,5 @@
+#!/bin/bash
+for file in /alu-shell/*
+do
+	echo "#!/bin/bash" > ${file}
+done
