@@ -1,1 +1,3 @@
 #!/usr/bin/env bash
+#Today the Customer Support
+awk '{print $1,$9}' apache-access.log
