@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
-# a Bash script that displays To infinity and beyond
-pkill -f 
+#  a bash file that kills 7-highlander process.
+
+
+
+pkill -f 7-highlander
