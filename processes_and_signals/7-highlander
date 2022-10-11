@@ -1,3 +1,8 @@
 #!/usr/bin/env bash
 #  a bash file that kills 7-highlander process.
-pkill -f 7-highlander
+# 7-highlander
+trap "echo I am invincible!!!" SIGTERM
+while true; do
+echo "To infinity and beyond"
+	  sleep 2
+done
